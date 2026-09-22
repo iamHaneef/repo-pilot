@@ -30,6 +30,10 @@ Automatically:
 - Deletes the selected GitHub repositories using GitHub CLI
 - Reports successful and failed deletions
 
+## Development Status
+
+RepoPilot V1.1 is currently under development.
+
 ## Tech Stack
 
 - Node.js
