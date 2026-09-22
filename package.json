@@ -1,0 +1,21 @@
+{
+  "name": "repo-pilot",
+  "version": "1.0.0",
+  "description": "A Node.js CLI that automates GitHub repository creation, initialization, publishing, and deletion.",
+  "main": "create-repo.js",
+  "scripts": {
+    "create": "node create-repo.js",
+    "delete": "node delete-repo.js"
+  },
+  "keywords": [
+    "github",
+    "git",
+    "automation",
+    "cli",
+    "repository",
+    "nodejs"
+  ],
+  "author": "Muhamad Haneef",
+  "license": "MIT",
+  "type": "commonjs"
+}
