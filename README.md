@@ -344,12 +344,6 @@ Only entering:
 
 will continue the operation.
 
-### ⚠️ Warning
-
-GitHub repository deletion is destructive.
-
-Always verify the repository list before confirming the deletion.
-
 ---
 
 # 🪟 Windows Setup & Common Terminal Issues
